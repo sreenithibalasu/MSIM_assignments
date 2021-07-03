@@ -36,11 +36,11 @@ It is the dataset for the "Competition on Recognition of Handwritten Mathematica
 
 - To get an overview of the CROHME-19 dataset, we wrote a script to generate an image containing a random sample from 40 different classes in the dataset.
 
-![data sample visualization](./random_labels.jpeg)
+![data sample visualization](https://github.com/sreenithibalasu/experiments/blob/main/CROHME_data_analysis/random_labels.jpeg)
 
 - I also generate an image containing the distriution of number of samples in each class in the dataset. From the picture below, we can see that the dataset is imbalanced and hence there is a need to perform data augmentation.
 
-![data class distribution](./label_distribution.jpeg)
+![data class distribution](https://github.com/sreenithibalasu/experiments/blob/main/CROHME_data_analysis/label_distribution.jpeg)
 
 ### Task 1 Scripts
 
